@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters from His Majesty. The one to the Speaker of the Commons assembled in Parliament. The other to His Excellencie the Lord Generall Monck. With His Majesties declaration inclosed. Together with the resolve of the House thereupon. Read in the House of Commons assembled in Parliament; Tuesday May 1. 1660.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79398</idno>
+            <idno type="STC">Wing C3624</idno>
+            <idno type="STC">Thomason E1075_1</idno>
+            <idno type="STC">ESTC R205472</idno>
+            <idno type="EEBO-CITATION">99864844</idno>
+            <idno type="PROQUEST">99864844</idno>
+            <idno type="VID">117076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117076)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1075[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters from His Majesty. The one to the Speaker of the Commons assembled in Parliament. The other to His Excellencie the Lord Generall Monck. With His Majesties declaration inclosed. Together with the resolve of the House thereupon. Read in the House of Commons assembled in Parliament; Tuesday May 1. 1660.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>12, 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husbands and Tho. Newcomb, printers to the Honourable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 3.".</note>
+                  <note>Printed and bound together. "His Majesties declaration" begins on second p. 1.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="3" facs="tcp:117076:1"/>
+            <head>
+               <figure>
+                  <figDesc>Tudor rose</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>Charles R.</signed>
+               <lb/>
+               <salute>
+                  <seg rend="decorInit">T</seg>Ruſty and Wel-beloved, We Greet you well.</salute>
+            </opener>
+            <p>In theſe great and inſup<g ref="char:EOLhyphen"/>portable afflictions and calamities under which the poor Nation hath been ſo long exerciſed, and by which it is ſo near exhauſted; Wee cannot think of a more Natural and proper Re<g ref="char:EOLhyphen"/>medy, then to reſort to thoſe for Counſel and Adviſe, who have ſeen and obſerved the firſt beginning of our Miſeries, the progreſs from bad to worſe, and the miſtakes and miſ-underſtandings which have pro<g ref="char:EOLhyphen"/>duced and contributed to inconveniences which were not intended; and after ſo many Revolutions, and the obſervation of what hath attended them, are now truſted by Our good Subjects to repair the Breaches which are made, and to provide proper
+<pb facs="tcp:117076:2"/>
+               <pb n="3" facs="tcp:117076:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:117076:3"/>Remedies for thoſe Evils, and for the laſting Peace, Happineſs and Security of the Kingdome.</p>
+            <p>We do aſſure you upon Our Royal word, that none of our Predeceſſors have had a greater eſteem of Parliaments, then We have, in our judgment, as well as from our obligation; We do beleeve them to be ſo vital a part of the conſtitut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of the Kingdom, and ſo neceſſary for the Government of it, that We well know, neither Prince, nor people can be in any tolerable degree happy with<g ref="char:EOLhyphen"/>out them; and therefore you may be confident, that we ſhall always<g ref="char:punc">▪</g> look upon their Councels as the beſt We can receive, and ſhall be as tender of their Priviledges, and as carefull to preſerve and protect them, as of that which is moſt neer to Our ſelf, and moſt neceſſary for Our own preſerva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And as this is our opinion of Parliaments, that their Authority is moſt neceſſary for the Govern<g ref="char:EOLhyphen"/>ment of the Kingdom, ſo we are moſt confident, that you beleeve, and find that the preſervation of the Kings Authority is as neceſſary for the preſer<g ref="char:EOLhyphen"/>vation of Parliaments; and that it is not the name, but the right conſtitution of them, which can pre<g ref="char:EOLhyphen"/>pare, and apply proper remedies for thoſe Evils, which are grievous to the People, and which can thereby eſtabliſh their peace and ſecurity. And there<g ref="char:EOLhyphen"/>fore we have not the leaſt doubt, but that you will be as tender in, and as jealous of any thing that may infringe Our Honor, or impaire Our Au<g ref="char:EOLhyphen"/>thority, as of your own Liberty and Property, which is beſt preſerved, by preſerving the o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <pb n="5" facs="tcp:117076:3" rendition="simple:additions"/>
+How far we have truſted you in this great affair, and how much it is in your power to reſtore the Nation to all that it hath loſt, and to Redeem it from any Infamy it hath undergone, and to make King and People as happy as they ought to be; you will find by our incloſed Declaration, a Copy of which we have likewiſe ſent to the Houſe of Peers, and you will eaſily believe that we would not volun<g ref="char:EOLhyphen"/>tarily, and of Our ſelf have repoſed ſo great a truſt in you, but upon an intire confidence that you will not abuſe it; and that you will proceed in ſuch a manner, and with ſuch due conſideration of us who have truſted you, that we ſhall not be aſhamed of declining other aſſiſtance (which we have aſſurance of) and repairing to you for more natural and proper remedies for the evils we would be freed from, nor for<g ref="char:EOLhyphen"/>ry that we have bound up our own intereſt ſo intire<g ref="char:EOLhyphen"/>ly, with that of our Subjects, as that we refer it to the ſame perſons to take care of us who are truſted to provide for them. We look upon you as wiſe and diſpaſſionate men, and good Patriots, who will raile up thoſe Banks and Fences which have been caſt down, and who will moſt reaſonably hope, that the ſame pro<g ref="char:EOLhyphen"/>ſperity will again ſpring from thoſe Roots from which it hath heretofore and alwayes grown; nor can we apprehend that you will propoſe any thing to us, or expect any thing from us, but what we are as ready to give, as you to receive.</p>
+            <p>If you deſire the advancement and propagation of the Proteſtant Religion, we have by our conſtant profeſſion and practice of it, given ſufficient Teſtimo<g ref="char:EOLhyphen"/>ny to the World, That neither the unkindneſs of
+<pb n="6" facs="tcp:117076:4"/>thoſe of the ſame Faith towards us, nor the Civilities and Obligations from thoſe of a contrary Profeſſion, (of both which we have had abundant evidence) could in the leaſt degree ſtartle us, or make us ſwerve from it; and nothing can be propoſed to manifeſt our zeal and affection for it, to which we will not readily conſent. And we hope in due time Our ſelf to propoſe ſomewhat to you for the propagation of it, that will ſatisfie the World, that we have alwayes made it both our care and our ſtudy, and have e<g ref="char:EOLhyphen"/>nough obſerved what is moſt like to bring diſadvan<g ref="char:EOLhyphen"/>tage to it.</p>
+            <p>If you deſire Security for thoſe, who in theſe ca<g ref="char:EOLhyphen"/>lamitous times, either wilfully or weakly have tranſ<g ref="char:EOLhyphen"/>greſſed thoſe bounds which were preſcribed, and have invaded each others Rights, We have left to you to provide for their ſecurity and Indempnity, and in ſuch a way as you ſhall think juſt and reaſonable; and by a juſt computation of what men have done and ſuf<g ref="char:EOLhyphen"/>fered, as near as is poſſible, to take care that all men be ſatisfied, which is the ſureſt way to ſuppreſs and extir<g ref="char:EOLhyphen"/>pate all ſuch uncharitableneſs and animoſity as might hereafter ſhake and threaten that peace, which for the preſent might ſeem eſtabliſhed. If there be a crying ſinne, for which the Nation may be involved in the In<g ref="char:EOLhyphen"/>famy that attends it, We cannot doubt but that you will be as ſollicitous to Redeem and Vindicate the Na<g ref="char:EOLhyphen"/>tion from that guilt and infamy, as we can be.</p>
+            <p>If you deſire that reverence and obedience may be paid to the fundamental Lawes of the Land, and that Juſtice may be equally and impartially admini<g ref="char:EOLhyphen"/>ſtred to all men, it is that which we deſire to be
+<pb n="7" facs="tcp:117076:4"/>ſworn to Our ſelf, and that all perſons in power and authority ſhould be ſo too.</p>
+            <p>In a word, there is nothing that you can propoſe, that may make the Kingdom happie, which we will not contend with you to compaſs; and upon this confidence and aſſurance, we have thought fit to ſend you this <hi>Declaration,</hi> that you may, as much as is poſſible, at this diſtance, ſee our heart, which when God ſhall bring us nearer together (as we hope he will do ſhortly) will appear to you very agreea<g ref="char:EOLhyphen"/>ble to what we have profeſſed, and we hope that we have made that right Chriſtian uſe of our affliction; and that the obſervation and experience we have had in other Countries, hath been ſuch, as that we, and we hope all our Subjects, ſhall be the better for what we have ſeen and ſuffered.</p>
+            <p>We ſhall add no more but our Prayers to Al<g ref="char:EOLhyphen"/>mighty <hi>GOD,</hi> That he will ſo bleſs your Coun<g ref="char:EOLhyphen"/>ſels, and direct your endeavours, that his Glory and Worſhip may be provided for, and the Peace, Honour, and Happineſs of the Nation may be E<g ref="char:EOLhyphen"/>ſtabliſhed upon thoſe foundations which can beſt ſup<g ref="char:EOLhyphen"/>port it; And ſo we bid you farewel.</p>
+            <closer>
+               <dateline>Given at our Court at <hi>Breda</hi> 
+                  <date>this 4th / 14. day of <hi>April,</hi> 1660. in the twelfth year of our Raign.</date>
+               </dateline>
+            </closer>
+            <argument>
+               <p>Superſcribed, <q>To our Truſty and welbeloved, The Speaker of the Houſe of<hi>Commons.</hi>
+                  </q>
+               </p>
+            </argument>
+         </div>
+         <div type="document">
+            <pb facs="tcp:117076:5"/>
+            <pb n="9" facs="tcp:117076:5"/>
+            <opener>
+               <signed>CHARLES R.</signed>
+               <lb/>
+               <salute>
+                  <seg rend="decorInit">T</seg>Ruſty and Welbeloved, We greet you well:</salute>
+            </opener>
+            <p>It cannot be believed, but that We have been, are, and ever muſt be, as ſolicitous as We can, by all endeavors to improve the Affecti<g ref="char:EOLhyphen"/>ons of Our good Subjects at home, and to procure the aſsiſtance of Our Friends and Allies abroad; for the recovery of that Right, which by the Laws of God and Man, is un<g ref="char:EOLhyphen"/>queſtionable; and of which We have been ſo long diſpoſſeſſed by ſuch force, and with thoſe circumſtances, as We do not deſire to aggravate by any ſharp expreſsions, but ra<g ref="char:EOLhyphen"/>ther wiſh, That the memory of what is paſſed, may be buried to the World; that We have more endeavored to prepare, and to improve the affections of Our Subjects at home, for Our Reſtoration, then to procure aſsiſtance from abroad, to invade either of Our King<g ref="char:EOLhyphen"/>doms, is as manifeſt to the World: And We cannot give a better evidence, that we are ſtill of the ſame minde, then in this conjuncture, when common Reaſon muſt ſatisfie all men, That We cannot be without aſsiſtance from abroad, We chuſe rather to ſend to you, who
+<pb n="10" facs="tcp:117076:6"/>have it in your own power, to prevent that ruine and deſolation which a War would bring upon the Nation, and to make the whole Kingdom ow the Peace, Happineſs, Security, and Glory it ſhall enjoy, to your Vertue; and to acknowledge that your Ar<g ref="char:EOLhyphen"/>mies have complied with their Obligations, for which they were firſt raiſed, for the preſer<g ref="char:EOLhyphen"/>vation of the Proteſtant Religion, the honor and dignity of the King, the priviledges of Parliament, the liberty and property of the Subject, and the Fundamental Laws of the Land; and that you have vindicated that truſt, which others moſt perfidiouſly abuſed and betrayed. How much We deſire and reſolve to contribute to thoſe good ends, will appear to you by our encloſed <hi>Declaration,</hi> which We deſire you to cauſe to be publiſh<g ref="char:EOLhyphen"/>ed for the Information and Satisfaction of all good Subjects, who do not deſire a further ef<g ref="char:EOLhyphen"/>fuſion of precious Chriſtian blood, but to have their peace and ſecurity founded upon that which can onely ſupport it; an Unity of affections amongſt our ſelves, an equal Ad<g ref="char:EOLhyphen"/>miniſtration of Juſtice to Men, reſtoring <hi>Parliaments</hi> to a full capacity of providing for all that is amiſs, and the Laws of the Land to their due veneration.</p>
+            <p>
+               <pb n="11" facs="tcp:117076:6"/>
+You have been your ſelves witneſſes of ſo many Revolutions, and have had ſo much experience, how far any power and autho<g ref="char:EOLhyphen"/>rity that is only aſſumed by paſsion and ap<g ref="char:EOLhyphen"/>petite, and not ſupported by Juſtice, is from providing for the happineſs and peace of the people, or from receiving any obedience from them, without which no Government can provide for them; that you may very reaſonably believe, that God hath not been well pleaſed with the attempts that have been made, ſince he hath uſually en<g ref="char:EOLhyphen"/>creaſed the Confuſion, by giving all the ſucceſs that hath been deſired, and brought that to paſs without Effect, which the De<g ref="char:EOLhyphen"/>ſigners have propoſed, as the beſt means to ſettle and compoſe the Nation; and there<g ref="char:EOLhyphen"/>fore We cannot but hope and beleive, that you will concur with Us in the remedie we have applyed, which to humane under<g ref="char:EOLhyphen"/>ſtanding is only proper for the Ills we all groan under; and that you will make your ſelves the bleſſed Inſtruments to bring this bleſsing of Peace and Reconciliation upon King and People, it being the uſual method in which Divine Providence delighteth it ſelf, to uſe and ſanctifie thoſe very means which ill men deſign, for the ſatisfaction of
+<pb n="12" facs="tcp:117076:7"/>private and particular Ends and Ambition, and other wicked purpoſes, to wholeſome and publick Ends, and to Eſtabliſh that Good which is moſt contrary to the Deſigners; which is the greateſt Manifeſtation of Gods peculiar Kindneſs to a Nation, that can be given in this world. How far we reſolve to preſerve your Intereſts, and reward your ſer<g ref="char:EOLhyphen"/>vices, we refer to our <hi>Declaration;</hi> and we hope God will inſpire you to perform your Duty to Us, and to your Native Countrey, whoſe happineſs cannot be ſeparated from each other.</p>
+            <p>We have entruſted our Wel-beloved Servant Sir <hi>John Greenvile</hi> one of the Gen<g ref="char:EOLhyphen"/>tlemen of Our Bed-chamber, to deliver this unto you, and to give Us an accompt of your Reception of it, and to deſire you in Our Name, that it may be publiſhed. And ſo we bid you farewel.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Breda</hi> 
+                  <date>this 14. of <hi>Aprill</hi> 1660. In the twelfth Year of Our Reign.</date>
+               </dateline>
+            </closer>
+            <trailer>Received 1. <hi>May</hi> 1660.</trailer>
+            <trailer>To our truſty and wel-beloved General <hi>Monck.</hi> to be by him communicated to the Preſident and Council of State, and to the Officers of the Armies under his Command.</trailer>
+         </div>
+         <div type="royal_declaration">
+            <pb n="1" facs="tcp:117076:7"/>
+            <head>HIS MAJESTIES DECLARATION</head>
+            <opener>
+               <signed>CHARLES REX,</signed>
+               <lb/>
+               <hi>
+                  <seg rend="decorInit">C</seg>HARLES,</hi> By the Grace of God, King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France,</hi> and <hi>Ireland,</hi> De<g ref="char:EOLhyphen"/>fender of the Faith, <hi>&amp;c.</hi> 
+               <salute>To all our loving Subjects of what Degree or Quality ſoe<g ref="char:EOLhyphen"/>ver, Greeting.</salute>
+            </opener>
+            <p>If the General Diſtracti<g ref="char:EOLhyphen"/>on and Confuſion, which is ſpread over the whole Kingdom, doth not awaken all men to a Deſire, and Longing, that thoſe Wounds which have ſo many years toge<g ref="char:EOLhyphen"/>ther been kept bleeding, may be bound up, all We can ſay will be to no purpoſe: Howe<g ref="char:EOLhyphen"/>ver, after this long ſilence, We have thought it our Duty to Declare how much we deſire to contribute thereunto; and that, as We can never give over the hope in good time to obtain the Poſſeſſion of that Right, which God and Nature hath made Our Due; So We do make it our daily Suit to the Divine Providence, that He will in Compaſſion to Vs and Our Subjects, after ſo long Miſe<g ref="char:EOLhyphen"/>ry and Sufferings, remit, and put Vs into a quiet and peaceable Poſſeſſion of that Our Right, with as little Blood, and Da<g ref="char:EOLhyphen"/>mage
+<pb n="2" facs="tcp:117076:8"/>to our People as is poſſible: Nor do We deſire more to enjoy what is Ours, then that all Our Subjects may enjoy what by Law is theirs, by a full and entire Admini<g ref="char:EOLhyphen"/>ſtration of Iuſtice throughout the Land, and by extending Our Mercy where it is wanted and deſerved.</p>
+            <p>And to the end that the fear of puniſh<g ref="char:EOLhyphen"/>ment may not engage any conſcious to themſelves of what is paſt to a perſeverance in guilt for the future, by oppoſing the quiet and happineſs of their Countrey, in the Reſtoration both of King, Peers, and People, to their Iuſt, Antient and Funda<g ref="char:EOLhyphen"/>mental Rights, We do by theſe preſents Declare, That We do grant a Free and General Pardon, which We are ready upon demand, to paſs under Our Great Seal of <hi>England,</hi> to all Our Subjects of what De<g ref="char:EOLhyphen"/>gree or quality ſoever, who within Forty dayes after the publiſhing hereof, ſhall lay hold upon this Our Grace and Favour, and ſhall by any publick Act Declare their doing ſo, and that they return to the Loy<g ref="char:EOLhyphen"/>alty and Obedience of good Subjects; Ex<g ref="char:EOLhyphen"/>cepting onely ſuch perſons as ſhall hereafter be excepted by Parliament, thoſe onely ex<g ref="char:EOLhyphen"/>cepted, let all Our Subjects, how faulty ſoever, rely upon the Word of a King, ſo<g ref="char:EOLhyphen"/>lemnly given by this preſent Declaration, That no Crime whatſoever committed a<g ref="char:EOLhyphen"/>gainſt Vs or Our Royal Father before the Publication of this, ſhall ever riſe in judge<g ref="char:EOLhyphen"/>ment, or be brought in queſtion againſt any of them, to the leaſt endammagement of them, either in their Lives, Liberties,
+<pb n="3" facs="tcp:117076:8"/>or Eſtates, or (as far forth as lies in Our power) ſo much as to the prejudice of their Reputations, by any Reproach or term of diſtinction from the reſt of Our beſt Sub<g ref="char:EOLhyphen"/>jects: We deſiring and Ordaining that hence<g ref="char:EOLhyphen"/>forward all Notes of Diſcord, Separation, and difference of Parties be utterly aboliſh<g ref="char:EOLhyphen"/>ed among all Our Subjects, whom We invite and conjure to a perfect union among themſelves, under Our Protection, for the Re-ſettlement of our juſt Rights and theirs, in a Free Parliament, by which, upon the Word of a King, We will be adviſed.</p>
+            <p>And becauſe the paſſion and uncharita<g ref="char:EOLhyphen"/>bleneſs of the times have produced ſeveral opinions in Religion, by which men are en<g ref="char:EOLhyphen"/>gaged in Parties and Animoſities againſt each other, which when they ſhall hereafter unite in a freedom of converſation, will be compoſed, or better underſtood, We do de<g ref="char:EOLhyphen"/>clare a Liberty to Tender Conſciences, and that no man ſhall be diſquieted, or cal<g ref="char:EOLhyphen"/>led in queſtion for differences of opinion in matter of Religion, which do not diſturb the peace of the Kingdom, and that We ſhall be ready to conſent to ſuch an Act of Harliament, as upon mature deliberation ſhall be offered to Vs, for the full granting that Indulgence.</p>
+            <p>And becauſe in the continued diſtractions of ſo many years, and ſo many and great Revolutions, many Grants and Purchaſes of Eſtates have been made to, and by many Officers, Souldiers and others, who are now poſſeſſed of the ſame, and who may be liable to Actions at Law, upon ſeveral
+<pb n="4" facs="tcp:117076:9"/>Titles; We are likewiſe willing that all ſuch differences, and all things relating to ſuch Grants, Sales, and Purchaſes ſhall be determined in Parliament, which can beſt provide for the juſt Satisfaction all men who are concerned.</p>
+            <p>And we do further Declare, That We will be ready to conſent to any Act or Acts of Parliament to the purpoſes aforeſaid, and for the full ſatisfaction of all Arrears due to the Officers and Soldiers of the Army under the Command of General <hi>Monck,</hi> and that they ſhall be received into Our Ser<g ref="char:EOLhyphen"/>vice upon as good pay and conditions as they now enioy.</p>
+            <closer>
+               <dateline>Given under Our Signe Manual, and Privy Signet at our Court at <hi>Breda,</hi> 
+                  <date>this 4<hi>th</hi>/14: Day of <hi>April 1660.</hi> in the twelfth year of Our Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <date>Tueſday May 1. 1660.</date>
+               </dateline>
+            </opener>
+            <p>Reſolved upon the queſtion by the Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment <hi>(nemine contradicente)</hi>
+               <lb/>
+THat a Committee be appointed to prepare an Anſwer to His Ma<g ref="char:EOLhyphen"/>jeſties Letter, expreſſing the great and joyful Sence of this Houſe of His Gracious Offers, and their humble and hearty Thanks to His Majeſtie for the ſame, and with profeſſions of their Loyalty and Duty to His Majeſtie; and that this Houſe will give a ſpeedy Anſwer to His Majeſties Gracious Propoſals.</p>
+            <p>
+               <hi>Reſolved,</hi> &amp;c. (nemine contradicente)<lb/>
+THat the Letters from His Majeſtie, both that to this Houſe, and that to the Lord General, with His Majeſties Declaration which came incloſed, and the Reſolve of this Houſe thereupon be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Wil. Jeſſop Clerk of the Commons Houſe of</hi> Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
